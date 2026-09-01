@@ -12,13 +12,10 @@
 
 Medicine is my primary pursuit, while technology serves as a medium for exploration. I bridge the gap between clinical medicine and software engineering by building digital solutions that organize vast medical resources and improve healthcare delivery in developing regions.
 
-- 🎓 **Education:** 5th-Year Medical Student at **Dhaka Medical College (Batch K-79)**, Bangladesh. (Hometown: Jhenaidah)
-- 🚀 **Currently Building:** **[ZimRx](https://github.com/aliffarzanzim/zimrx)** — An open-source, local-first EMR & Digital Prescription engine designed for solo practitioners and rural clinics.
-- 💡 **Founder:** **[Guess The Case](https://guessthecase.eu.org)** — An ad-free ed-tech platform and Telegram community of 23,000+ medical students featuring AI-assisted medical books, PDF tools, and clinical resources.
+- 🎓 **Education:** 5th-Year Medical Student at **Dhaka Medical College (Batch K-79)**, Bangladesh.
+- 🚀 **Currently Building:** **[ZimRx](https://github.com/aliffarzanzim/zimrx)** - An open-source, local-first EMR & Digital Prescription engine designed for solo practitioners and rural clinics.
+- 💡 **Founder:** **[Guess The Case](https://guessthecase.eu.org)** - An ad-free ed-tech platform and Telegram community of 23,000+ medical students featuring AI-assisted medical books, PDF tools, and clinical resources.
 - 🌸 **Outside the Apron:** When I'm not studying or coding, I watch a lot of anime, binge web series, and read/review books. 
-
-*Take a look around — make your med school feel a bit lighter!*
-
 ---
 
 ### 🛠️ Tech Stack & Tools
