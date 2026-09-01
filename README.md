@@ -15,26 +15,24 @@ Medicine is my primary pursuit, while technology serves as a medium for explorat
 - 🎓 **Education:** 5th-Year Medical Student at **Dhaka Medical College (Batch K-79)**, Bangladesh.
 - 🚀 **Currently Building:** **[ZimRx](https://github.com/aliffarzanzim/zimrx)** - An open-source, local-first EMR & Digital Prescription engine designed for solo practitioners and rural clinics.
 - 💡 **Founder:** **[Guess The Case](https://guessthecase.eu.org)** - An ad-free ed-tech platform and Telegram community of 23,000+ medical students featuring AI-assisted medical books, PDF tools, and clinical resources.
-- 🌸 **Outside the Apron:** When I'm not studying or coding, I watch a lot of anime, binge web series, and read/review books. 
+- 👨‍⚕️ **Outside the Apron:** When I'm not studying or coding, I watch a lot of anime, binge web series, and read/review books. 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,js,html,css,sqlite,mysql,linux,git,latex&theme=light" alt="My Skills" />
+  </a>
+</p>
+
+---
 
 ### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffarzanzim&amp;theme=transparent&amp;hide_border=true&amp;title_color=2B82CB&amp;icon_color=2B82CB&amp;text_color=333333" alt="Alif's GitHub Streak" />
 </p>
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliffarzanzim&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=2B82CB&amp;icon_color=2B82CB&amp;text_color=333333" alt="Alif's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffarzanzim&amp;theme=transparent&amp;hide_border=true&amp;title_color=2B82CB&amp;icon_color=2B82CB&amp;text_color=333333" alt="Alif's GitHub Streak" width="48%" />
-</p>
-
 ---
 
 ### 📫 Connect With Me
