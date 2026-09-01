@@ -23,10 +23,10 @@ Medicine is my primary pursuit, while technology serves as a medium for explorat
 
 ### 🛠️ Tech Stack & Tools
 
+### 📈 GitHub Analytics
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,js,html,css,sqlite,mysql,linux,git,latex&theme=light" alt="My Skills" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffarzanzim&amp;theme=transparent&amp;hide_border=true&amp;title_color=2B82CB&amp;icon_color=2B82CB&amp;text_color=333333" alt="Alif's GitHub Streak" />
 </p>
 
 ---
