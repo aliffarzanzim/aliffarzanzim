@@ -25,7 +25,7 @@ Medicine is my primary pursuit, while technology serves as a medium for explorat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,python,html,css,sqlite,mysql,linux,git,latex&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,php,js,html,css,sqlite,mysql,linux,git,latex&theme=light" alt="My Skills" />
   </a>
 </p>
 
@@ -34,8 +34,8 @@ Medicine is my primary pursuit, while technology serves as a medium for explorat
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliffarzanzim&show_icons=true&theme=transparent&hide_border=true&title_color=2B82CB&icon_color=2B82CB&text_color=333333" alt="Alif's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffarzanzim&theme=transparent&hide_border=true&title_color=2B82CB&icon_color=2B82CB&text_color=333333" alt="Alif's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliffarzanzim&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=2B82CB&amp;icon_color=2B82CB&amp;text_color=333333" alt="Alif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffarzanzim&amp;theme=transparent&amp;hide_border=true&amp;title_color=2B82CB&amp;icon_color=2B82CB&amp;text_color=333333" alt="Alif's GitHub Streak" width="48%" />
 </p>
 
 ---
